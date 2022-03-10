@@ -7,7 +7,7 @@ PLease refer below sections and follow the step by step approach.
 <details><summary> <h2> 01-Constant_Inputs.py </h2> </summary>
 <p>
 
-<strong> Here in this section we can see how flask app will work taking the constant inputs </strong> 
+<h3> Here in this section we can see how flask app will work taking the constant inputs </h3> 
 
 * Create a folder Flask_App and move into same
 ```ruby
