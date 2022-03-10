@@ -50,6 +50,8 @@ python3 02-Inputs_Through_URL.py
 * Click below URL's to check the outputs. Here you can put any value of a and b and it will give you addition and substraction.
   - e.g If you want to do addition of 10 and 20 then URL should be http://localhost:8000/addition?a=10&b=20
 <br>[For Addition Click Me](http://localhost:8000/addition?a=100&b=100) [For Substraction Click Me](http://localhost:8000/substraction?a=100&b=100)</br>
+
+![Alt text](https://github.com/ShubhPatil95/Flask_Outputs_Methods/blob/main/Images/02-Inputs_Through_URL.png?raw=true "02-Inputs_Through_URL.py")
  
 * Now you can read and try to understand code written in 02-Inputs_Through_URL.py and for any questions feel free to reach out to me on linkedin [Shubham Patil](https://www.linkedin.com/in/datascientistshubhampatil)
 </p>
@@ -78,6 +80,7 @@ python3 03-Inputs_Through_Swagger.py
  
 * Click On [addition] or [substraction] drop down=> click on [Try it Out] => Enter First and Second number=> Click [Execute] => Check output in [Response body]
 <br>[Click Here To Go To Swagger](http://localhost:8000/apidocs)</br>
+![Alt text](https://github.com/ShubhPatil95/Flask_Outputs_Methods/blob/main/Images/03-Inputs_Through_Swagger.png?raw=true "03-Inputs_Through_Swagger.py")
 
 * Now you can read and try to understand code written in 03-Inputs_Through_Swagger.py and for any questions feel free to reach out to me on linkedin [Shubham Patil](https://www.linkedin.com/in/datascientistshubhampatil)
 </p>
@@ -113,7 +116,7 @@ python3 04-Inputs_Through_HTML.py
 <br>[Click Here To Open App URL](http://localhost:8000)</br>
  
 * On App page, Enter First and Second number and then enter SUM or SUB for addition and substraction respectively.
-![Alt text](https://github.com/ShubhPatil95/Flask_Outputs_Methods/blob/main/Images/04-Inputs_Through_HTML.png?raw=true "Title")
+![Alt text](https://github.com/ShubhPatil95/Flask_Outputs_Methods/blob/main/Images/04-Inputs_Through_HTML.png?raw=true "04-Inputs_Through_HTML.py")
 
 * Now you can read and try to understand code written in 03-Inputs_Through_Swagger.py and for any questions feel free to reach out to me on linkedin [Shubham Patil](https://www.linkedin.com/in/datascientistshubhampatil)
 </p>
