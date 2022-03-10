@@ -2,7 +2,7 @@
 In this repository I have mentioned about some methods by which we can show our outputs of flask app. 
 These methods would proof very hady in the development and testing phase of app and will reduce your depedancy on front end team for interface development.
 
-PLease refer below sections and follow the step by step approach.
+Please refer below sections and follow the step by step approach.
 
 <details><summary> <h2> 01-Constant_Inputs.py </h2> </summary>
 <p>
@@ -39,7 +39,7 @@ python3 01-Constant_Inputs.py
 mkdir Flask_App
 cd Flask_App
 ```
-* Create a file 02-Inputs_Through_URL.py and copy paste code from [https://github.com/ShubhPatil95/Flask_Outputs_Methods/blob/main/02-Inputs_Through_URL.py)
+* Create a file 02-Inputs_Through_URL.py and copy paste code from [02-Inputs_Through_URL.py](https://github.com/ShubhPatil95/Flask_Outputs_Methods/blob/main/02-Inputs_Through_URL.py)
 ```ruby
 touch 02-Inputs_Through_URL.py
 ```
