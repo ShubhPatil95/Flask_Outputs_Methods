@@ -113,6 +113,7 @@ python3 04-Inputs_Through_HTML.py
 <br>[Click Here To Open App URL](http://localhost:8000)</br>
  
 * On App page, Enter First and Second number and then enter SUM or SUB for addition and substraction respectively.
+![Alt text](https://github.com/ShubhPatil95/Flask_Outputs_Methods/blob/main/Images/04-Inputs_Through_HTML.png?raw=true "Title")
 
 * Now you can read and try to understand code written in 03-Inputs_Through_Swagger.py and for any questions feel free to reach out to me on linkedin [Shubham Patil](https://www.linkedin.com/in/datascientistshubhampatil)
 </p>
