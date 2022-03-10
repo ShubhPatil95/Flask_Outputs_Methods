@@ -2,7 +2,7 @@
 In this repository I have mentioned about some methods by which we can show our outputs of flask app. 
 These methods would proof very hady in the development and testing phase of app and will reduce your depedancy on front end team for interface development.
 
-PLease refer below sections and follow the step by step approach.
+Please refer below sections and follow the step by step approach.
 
 <details><summary> <h2> 01-Constant_Inputs.py </h2> </summary>
 <p>
