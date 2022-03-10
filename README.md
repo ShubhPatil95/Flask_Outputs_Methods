@@ -39,7 +39,7 @@ python3 01-Constant_Inputs.py
 mkdir Flask_App
 cd Flask_App
 ```
-* Create a file 02-Inputs_Through_URL.py and copy paste code from [https://github.com/ShubhPatil95/Flask_Outputs_Methods/blob/main/02-Inputs_Through_URL.py)
+* Create a file 02-Inputs_Through_URL.py and copy paste code from [02-Inputs_Through_URL.py](https://github.com/ShubhPatil95/Flask_Outputs_Methods/blob/main/02-Inputs_Through_URL.py)
 ```ruby
 touch 02-Inputs_Through_URL.py
 ```
