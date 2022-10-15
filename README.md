@@ -1,6 +1,6 @@
 # Flask_Outputs_Methods
 In this repository I have mentioned about some methods by which we can show our outputs of flask app. 
-These methods would proof very hady in the development and testing phase of app and will reduce your depedancy on front end team for interface development.
+These methods would proof very handy in the development and testing phase of app and will reduce your depedancy on front end team for interface development.
 
 Please refer below sections and follow the step by step approach.
 
